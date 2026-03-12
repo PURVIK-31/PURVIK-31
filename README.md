@@ -22,7 +22,7 @@
 
 <p align="center">
   Computer Science student & passionate builder.<br>
-  I turn ideas into <strong>clean, powerful, production-ready tools</strong> — <br>
+  I turn ideas into <strong>clean, powerful, production-ready tools</strong> - <br>
   automation, developer utilities, and systems that actually matter.
 </p>
 
