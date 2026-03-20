@@ -77,21 +77,13 @@
 <h3 align="center">✦ Developer Dashboard</h3>
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PURVIK-31&show_icons=true&bg_color=0a0a0a&border_color=262626&title_color=10B981&text_color=A3B3BC&icon_color=10B981&include_all_commits=true&count_private=true&line_height=28&hide_rank=true" alt="stats"/>
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=PURVIK-31&background=0a0a0a&border=262626&stroke=262626&ring=10B981&fire=10B981&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A3B3BC&sideLabels=A3B3BC&dates=A3B3BC&hide_border=true" alt="streak"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PURVIK-31&layout=compact&bg_color=0a0a0a&border_color=262626&title_color=10B981&text_color=A3B3BC" alt="top-langs"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PURVIK-31&show_icons=true&bg_color=0a0a0a&border_color=262626&title_color=10B981&text_color=A3B3BC&icon_color=10B981&count_private=true&line_height=28&hide_rank=true&cache_seconds=1800" alt="stats"/>
+  
+  <img src="https://streak-stats.demolab.com?user=PURVIK-31&background=0a0a0a&border=262626&stroke=262626&ring=10B981&fire=10B981&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A3B3BC&sideLabels=A3B3BC&dates=A3B3BC&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PURVIK-31&layout=compact&bg_color=0a0a0a&border_color=262626&title_color=10B981&text_color=A3B3BC&cache_seconds=1800" alt="top-langs"/>
 </p>
 
 <br/>
