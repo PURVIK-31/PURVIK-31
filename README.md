@@ -18,62 +18,6 @@
 
 <br/>
 
-<h3 align="center">✦ About Me</h3>
-
-<p align="center">
-  Computer Science student & passionate builder.<br>
-  I turn ideas into <strong>clean, powerful, production-ready tools</strong> - <br>
-  automation, developer utilities, and systems that actually matter.
-</p>
-
-<br/>
-
----
-
-<br/>
-
-<h3 align="center">✦ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,rust,tailwind,git,linux,docker,vscode,ai&perline=8" alt="skills"/>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-<h3 align="center">✦ Featured Projects</h3>
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/PURVIK-31/interview-helper">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PURVIK-31&repo=interview-helper&bg_color=0a0a0a&border_color=262626&title_color=10B981&text_color=A3B3BC&icon_color=10B981" alt="interview-helper"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/PURVIK-31/website-crawler">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PURVIK-31&repo=website-crawler&bg_color=0a0a0a&border_color=262626&title_color=10B981&text_color=A3B3BC&icon_color=10B981" alt="website-crawler"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/PURVIK-31/Image-gen">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PURVIK-31&repo=Image-gen&bg_color=0a0a0a&border_color=262626&title_color=10B981&text_color=A3B3BC&icon_color=10B981" alt="Image-gen"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<br/>
-
----
-
-<br/>
-
 <h3 align="center">✦ Developer Dashboard</h3>
 
 <p align="center">
